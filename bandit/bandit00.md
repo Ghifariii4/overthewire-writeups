@@ -1,4 +1,4 @@
-# bandit00: Log Into Remote Server
+# Bandit00: Log Into Remote Server
 
 [Challenge](https://overthewire.org/wargames/bandit/bandit0.html)
 

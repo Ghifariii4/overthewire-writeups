@@ -1,4 +1,4 @@
-# bandit00 -> 01: list
+# Bandit00 -> 01: list
 
 [Challenge](https://overthewire.org/wargames/bandit/bandit1.html)
 
@@ -12,7 +12,7 @@ So as the instruction said the password stored in file name readme, I check firs
 
 I type `ls` in home directory and there it is, file readme. Next I wanna check contents of the file.
 
-I used the `cat` command to see inside the file.
+I used the `cat` command to see inside the file:
 
 ```bash
 $ cat readme
@@ -20,7 +20,7 @@ $ cat readme
 
 And there it was, the password for next level.
 
-## Password for the next level
+## Password for the Next Level
 
 `[REDACTED]`
 
