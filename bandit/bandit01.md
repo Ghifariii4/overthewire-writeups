@@ -22,7 +22,7 @@ And there it was, the password for next level.
 
 ## Password for the Next Level
 
-`[REDACTED]`
+`[SPOILER]`
 
 ## What I learned
 
