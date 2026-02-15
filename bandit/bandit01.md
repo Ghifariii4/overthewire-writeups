@@ -1,4 +1,4 @@
-# Bandit00 -> 01: list
+# Bandit00 -> 01: Look at List
 
 [Challenge](https://overthewire.org/wargames/bandit/bandit1.html)
 
