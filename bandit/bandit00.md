@@ -2,8 +2,6 @@
 
 [Challenge](https://overthewire.org/wargames/bandit/bandit0.html)
 
----
-
 ## Level Description
 
 This was the starting  point of the bandit wargame. The goal of this level is for you to log into the game using SSH. The host to which you need to connect is <a href="[URL-Tujuan](https://overthewire.org/wargames/bandit)">bandit.labs.overthewire.org</a>, on port *2220*. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
