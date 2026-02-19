@@ -1,4 +1,4 @@
-# Bandit03: Hiding From You
+# Bandit03 -> 04: Hiding From You
 
 [Challenge](https://overthewire.org/wargames/bandit/bandit3.html)
 
