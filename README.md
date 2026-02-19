@@ -9,7 +9,7 @@ Welcome to my OverTheWire Bandit walkthrough repository! This project documents 
 | 00 | Log Into Remote Server | [Read Here](./bandit/bandit00.md)
 | 01 | Look at List | [Read Here](./bandit/bandit01.md) |
 | 02 | Simply Lovely Dash | [Read Here](./bandit/bandit02.md) |
-| 03 | Spaces Everywhere | [Read Here](./bandit/bandit03.md) |
+| 03 | Look at the spaces | [Read Here](./bandit/bandit03.md) |
 | 04 | Hiding From You | [Read Here](./bandit/bandit04.md) |
 | 05 | Human Readable | [Read Here](./bandit/bandit05.md) |
 | 06 | The Great Search | [Read Here](./bandit/bandit06.md) |
