@@ -1,4 +1,4 @@
-# Bandit33: The Final Level
+# Bandit33 -> 34: The Final Level
 
 [Challenge](https://overthewire.org/wargames/bandit/bandit33.html)
 
