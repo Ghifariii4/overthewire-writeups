@@ -44,4 +44,4 @@ Welcome to my OverTheWire Bandit walkthrough repository! This project documents 
 
 ---
 
-*Dibuat oleh Ahmad Ghifari*
+*Created by Ahmad Ghifari*
